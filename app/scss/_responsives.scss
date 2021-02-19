@@ -1,0 +1,160 @@
+/*Version Mobile*/
+@media (max-width: 758px) {
+	.col-md-6 {
+		display: none !important;
+	}
+	.display-none {
+		display: none !important;
+	}
+	div#temoignage {
+		>.col-md-6 {
+			display: block !important;
+		}
+	}
+	.slide-title {
+		font-size: 1.5em !important;
+	}
+	.Resp-pic {
+		width: 9em;
+		margin-top: 0px;
+		width: 7em;
+		float: right;
+		margin-right: 5em;
+	}
+	.reward-list {
+		margin-top: 0rem;
+	}
+	.primary-link {
+		font-size: 12px;
+	}
+}
+@media screen and (min-width: 200px) and (max-width: 360px) {
+	#pt-20 {
+		padding-top: 20em;
+	}
+	.primary-link {
+		font-size: 12px !important;
+	}
+}
+@media (width: 320px) {
+	.primary-link {
+		font-size: 11px !important;
+	}
+}
+@media (width: 375px) {
+	.primary-link {
+		font-size: 14px !important;
+	}
+}
+@media (min-width: 768px) {
+	.slide-title {
+		font-size: 1.75rem;
+		margin-right: -3.125rem;
+	}
+	.contact-ornament {
+		background-size: contain;
+		padding-bottom: 7.03125%;
+	}
+	.slide-contacts {
+		.slide-container {
+			padding-bottom: 3rem;
+		}
+	}
+	.contacts {
+		margin-top: 4.25rem;
+	}
+	.contact-item {
+		margin-top: 2.5rem;
+	}
+	.body-piling {
+		.copyright {
+			bottom: 4rem;
+		}
+		.footer-social {
+			bottom: 4.375rem;
+			margin-right: 0em;
+		}
+		.nav-toggle-btn {
+			top: 4.1875rem;
+		}
+	}
+	.primary-link {
+		font-size: 15px;
+		font-size: 15px;
+	}
+	.screen-container {
+		margin-left: -5rem;
+		margin-right: -5rem;
+	}
+	html {
+		font-size: 13px;
+	}
+	.slide-title-margin-lg {
+		.slide-title {
+			font-size: 1.75rem;
+		}
+	}
+	.slide-title.text-center {
+		margin-right: 0;
+	}
+	.text-center {
+		.slide-title {
+			margin-right: 0;
+		}
+	}
+	.slide-photo {
+		margin-top: 0;
+	}
+}
+@media (min-width: 1400px) {
+	.body-piling {
+		.copyright {
+			left: 4.375rem;
+		}
+		.footer-social {
+			right: 4.375rem;
+			margin-right: -1em;
+		}
+		.brand {
+			left: 4.375rem;
+		}
+		.nav-toggle-btn {
+			right: 4.375rem;
+		}
+	}
+	.progress-nav {
+		left: 4.5rem;
+	}
+}
+@media (min-width: 992px) {
+	html {
+		font-size: 14px;
+	}
+}
+@media (min-width: 1280px) {
+	html {
+		font-size: 15px;
+	}
+}
+@media (min-width: 1600px) {
+	html {
+		font-size: 16px;
+	}
+	.container-fluid {
+		padding-left: 4.375rem;
+		padding-right: 4.375rem;
+	}
+}
+@media (min-width: 1200px) {
+	.container {
+		max-width: 1200px;
+	}
+}
+@media (min-width: 576px) {
+	.menu {
+		width: 34rem;
+	}
+	.slide-title {
+		font-size: 1.75rem;
+	}
+}
